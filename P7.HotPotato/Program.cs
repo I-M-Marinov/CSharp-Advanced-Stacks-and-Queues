@@ -1,6 +1,4 @@
-﻿using System.Reflection.Metadata;
-
-Queue<string> children = new Queue<string>(Console.ReadLine().Split());
+﻿Queue<string> children = new Queue<string>(Console.ReadLine().Split());
 
 int tossCount = int.Parse(Console.ReadLine());
 int tosses = 0;

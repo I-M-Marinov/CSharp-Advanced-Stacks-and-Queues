@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P7.HotPotato", "P7.HotPotat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P8.TrafficJam", "P8.TrafficJam\P8.TrafficJam.csproj", "{875CD402-4499-4EF7-9EFD-4E8F2CE0373D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P3.SimpleCalculator", "P3.SimpleCalculator\P3.SimpleCalculator.csproj", "{CC142893-4808-41F3-8AAD-4453DA7E7EF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P3.SimpleCalculator", "P3.SimpleCalculator\P3.SimpleCalculator.csproj", "{CC142893-4808-41F3-8AAD-4453DA7E7EF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P5.PrintEvenNumbers", "P5.PrintEvenNumbers\P5.PrintEvenNumbers.csproj", "{B1258E1C-4DB9-4E26-89E5-B9AA8D7130D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{CC142893-4808-41F3-8AAD-4453DA7E7EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC142893-4808-41F3-8AAD-4453DA7E7EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC142893-4808-41F3-8AAD-4453DA7E7EF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1258E1C-4DB9-4E26-89E5-B9AA8D7130D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1258E1C-4DB9-4E26-89E5-B9AA8D7130D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1258E1C-4DB9-4E26-89E5-B9AA8D7130D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1258E1C-4DB9-4E26-89E5-B9AA8D7130D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
