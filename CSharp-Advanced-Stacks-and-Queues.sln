@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P3.SimpleCalculator", "P3.S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P5.PrintEvenNumbers", "P5.PrintEvenNumbers\P5.PrintEvenNumbers.csproj", "{B1258E1C-4DB9-4E26-89E5-B9AA8D7130D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P6.Supermarket", "P6.Supermarket\P6.Supermarket.csproj", "{6F6827E9-7364-4D35-91E0-F7A57559D1F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{B1258E1C-4DB9-4E26-89E5-B9AA8D7130D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1258E1C-4DB9-4E26-89E5-B9AA8D7130D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1258E1C-4DB9-4E26-89E5-B9AA8D7130D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F6827E9-7364-4D35-91E0-F7A57559D1F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F6827E9-7364-4D35-91E0-F7A57559D1F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F6827E9-7364-4D35-91E0-F7A57559D1F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F6827E9-7364-4D35-91E0-F7A57559D1F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
