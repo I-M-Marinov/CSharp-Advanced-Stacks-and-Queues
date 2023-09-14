@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33801.468
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P1.ReverseAString", "CSharp-Advanced-Stacks-and-Queues\P1.ReverseAString.csproj", "{2ED8DA0B-8B3B-4D5F-AD20-D413FB857221}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P1.ReverseAString", "CSharp-Advanced-Stacks-and-Queues\P1.ReverseAString.csproj", "{2ED8DA0B-8B3B-4D5F-AD20-D413FB857221}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2.StackSum", "P2.StackSum\P2.StackSum.csproj", "{FE412799-CF51-4F7B-9AE5-E9ABE0DB3729}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P2.StackSum", "P2.StackSum\P2.StackSum.csproj", "{FE412799-CF51-4F7B-9AE5-E9ABE0DB3729}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P4.MatchingBrackets", "P4.MatchingBrackets\P4.MatchingBrackets.csproj", "{60B78B1F-27C6-4A39-9C5E-8EDFFD65F9BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P4.MatchingBrackets", "P4.MatchingBrackets\P4.MatchingBrackets.csproj", "{60B78B1F-27C6-4A39-9C5E-8EDFFD65F9BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P7.HotPotato", "P7.HotPotato\P7.HotPotato.csproj", "{4DD661C2-ABE1-479D-837D-45C8A71DB4FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P7.HotPotato", "P7.HotPotato\P7.HotPotato.csproj", "{4DD661C2-ABE1-479D-837D-45C8A71DB4FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P8.TrafficJam", "P8.TrafficJam\P8.TrafficJam.csproj", "{875CD402-4499-4EF7-9EFD-4E8F2CE0373D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P8.TrafficJam", "P8.TrafficJam\P8.TrafficJam.csproj", "{875CD402-4499-4EF7-9EFD-4E8F2CE0373D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P3.SimpleCalculator", "P3.SimpleCalculator\P3.SimpleCalculator.csproj", "{CC142893-4808-41F3-8AAD-4453DA7E7EF7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{875CD402-4499-4EF7-9EFD-4E8F2CE0373D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{875CD402-4499-4EF7-9EFD-4E8F2CE0373D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{875CD402-4499-4EF7-9EFD-4E8F2CE0373D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC142893-4808-41F3-8AAD-4453DA7E7EF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC142893-4808-41F3-8AAD-4453DA7E7EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC142893-4808-41F3-8AAD-4453DA7E7EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC142893-4808-41F3-8AAD-4453DA7E7EF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

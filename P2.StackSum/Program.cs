@@ -7,7 +7,7 @@ string command = Console.ReadLine().ToLower();
 
 while (command != "end")
 {
-    string[] split = command .Split(' ');
+    string[] split = command.Split(' ');
     if (command.Contains("add"))
     {
         int first = int.Parse(split[1]);
